@@ -1,0 +1,85 @@
+
+
+.body{
+    display: flex; 
+    
+}   
+.top{
+    flex-direction:row;  
+    border: solid red ;
+    border-radius: 10px;
+}
+.topleft{
+    border: solid black ;
+    border-radius: 10px;
+    
+
+}
+.toplefttext{
+    font-weight: bolder;
+    
+}
+.quicker{
+    color: blueviolet;
+}
+.topmiddle{
+    border: solid black ;
+    border-radius: 10px;
+}
+.topmiddletext{
+    font-weight: bolder;
+   
+}
+
+.topright{
+    border: solid black ;
+    border-radius: 10px;
+}
+.toprighttext{
+    font-weight: bolder;
+    
+}
+.middle{
+    border: solid blue;
+    border-radius: 10px;
+}
+.middleright{
+    border: solid black ;
+    border-radius: 10px;
+}
+.middlerighttext{
+    font-weight: bolder;
+}
+.middlemiddle{
+    border: solid black ;
+    border-radius: 10px;
+}
+.middlemiddletext{
+    font-weight: bolder;
+}
+.middleleft{
+    border: solid black ;
+    border-radius: 10px;
+}
+.middlelefttext{
+    font-weight: bolder;
+}
+.bottom{
+    border: solid violet ;
+    border-radius: 10px;
+}
+.bottomright{
+    border: solid black ;
+    border-radius: 10px;
+}
+.bottomrighttext{
+    font-weight: bolder;
+}
+
+.bottomleft{
+    border: solid black ;
+    border-radius: 10px;
+}
+.bottomlefttext{
+    font-weight: bolder;
+}
